@@ -34,6 +34,10 @@ $(".main").onepage_scroll({
 });
 ```
 
-```
+```html
+<div class="main">
+  <section></section>
+  <section></section>
+</div>
 ```
 
